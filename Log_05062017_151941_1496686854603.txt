@@ -1,6 +1,8 @@
-Rotina para atualizar órgãos públicos
+Rotina para atualizar Ã³rgÃ£os pÃºblicos
 
 Registros atualizados no sistema:
 
 OID: 14295194 SVALOR: E CNPJ: 19138890000120 NOME: SECRETARIA DE ESTADO DA CULTURA
 OID: 14317876 SVALOR: E CNPJ: 05475103000121 NOME: SECRETARIA DE ESTADO DE GOVERNO
+
+Arquivo de log
